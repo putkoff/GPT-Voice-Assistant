@@ -47,9 +47,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **requirements.txt**
 ```
-dotenv
-speech_recognition
-PySimpleGUI
+sudo apt install python3-pyaudio
+pip install SpeechRecognition --break-system-packages
+pip install abstract_utilities --break-system-packages
+pip install abstract_gui --break-system-packages
 ```
 
 Repository structure:
