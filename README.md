@@ -9,6 +9,8 @@ GPT-Voice-Assistant is a Python-based tool that facilitates speech-to-text funct
 - **Real-time Voice Transcription:** Transcribes voice in real-time as you speak.
 - **Editable Transcribed Text:** Allows users to edit the transcribed text within the application.
 
+![image](https://github.com/putkoff/GPT-Voice-Assistant/blob/main/documentation/speech_to_text.png)
+
 ## Installation Requirements
 Before running the GPT-Voice-Assistant, ensure that the following dependencies are installed on your system:
 
